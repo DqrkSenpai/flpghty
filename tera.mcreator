@@ -1,0 +1,43 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Sds",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sds"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.sds.name": "Sds"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tera",
+    "modName": "tera",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.tera",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
