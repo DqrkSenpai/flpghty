@@ -2,20 +2,20 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Sds",
-      "type": "plant",
+      "name": "Graywitherpickaxe",
+      "type": "tool",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sds"
+      "registry_name": "graywitherpickaxe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.sds.name": "Sds"
+      "item.graywitherpickaxe.name": "Gray Wither Pickaxe"
     }
   },
   "foldersRoot": {

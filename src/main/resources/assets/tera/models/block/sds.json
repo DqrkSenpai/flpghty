@@ -1,7 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "tera:blocks/sdsds",
-    "particle": "tera:blocks/sdsds"
-  }
-}
